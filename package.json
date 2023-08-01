@@ -29,7 +29,7 @@
     "@types/js-cookie": "^3.0.3",
     "@types/node": "^20.4.1",
     "@vitejs/plugin-vue": "^4.1.0",
-    "electron": "^22.3.16",
+    "electron": "^25.3.2",
     "electron-builder": "^24.4.0",
     "typescript": "^5.0.2",
     "vite": "^4.1.4",
